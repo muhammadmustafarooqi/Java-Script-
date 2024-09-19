@@ -1,10 +1,8 @@
+// CHApter 1
 alert("Welcome to javascript")
 
-//  Numbers Multiplication with let
-let a = 15;
-let b = 100;
-let c = a * b;
-console.log (c);
+// Chapter2
+// Variable for String
 
 // Name Addition with var
 var p = "Muhammad";
@@ -18,11 +16,17 @@ const u = " Age";
 const h = (o + u +17);
 console .log (h);
 
+// Chapter3
+// Variables for Numbers
+
 const price1 = 13;
 const price2 = 15;
 let total = (price1 + price2);
 console.log (total)
 
+
+// chapter 4
+// Variable Names Legal and Illegal
 // Illegal
 
 // Starts with a digit
