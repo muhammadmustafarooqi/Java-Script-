@@ -71,7 +71,9 @@ if (percentage >= 90) {
     alert(username + "\nTotalMarks:300 \n" + "Grade: C" + "\nNeeds Improvement");
 } else if (percentage >= 40) {
     alert(username + "\nTotalMarks:300 \n" + "Grade: D" + "\nBelow Average");
-} else if (percentage <= 40) {
-    alert(username + "\nTotalMarks:300 \n" + "Grade: F" + "\nFail");
+} else if(percentage <= 40) {
+    alert(username + "\nTotalMarks:300 \n" + "Grade: F" );
+} else{
+    alert("you are fail\n" + "work hard next time:");
 }
 
