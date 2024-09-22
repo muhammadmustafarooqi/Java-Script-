@@ -74,6 +74,6 @@ if (percentage >= 90) {
 } else if(percentage <= 40) {
     alert(username + "\nTotalMarks:300 \n" + "Grade: F" );
 } else{
-    alert("you are fail\n" + "work hard next time:");
+    alert("invalid user");
 }
 
